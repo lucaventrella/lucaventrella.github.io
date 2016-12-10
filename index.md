@@ -14,6 +14,7 @@ Sono un artigiano di Torino con la passione del legno. Qui puo' trovare i miei l
 Eseguo lavori di restauro, traforo, tornitura, verniciatura e creazioni personalizzate.
 
 
+![scudo](/images/IMG-20160311-WA0007.jpg)
 ![rondine](/images/IMG_20150212_132314783.jpg)
 ![panca](/images/30-01-09_1159.jpg)
 ![macchina da cucire](/images/1387655334708.jpg)
