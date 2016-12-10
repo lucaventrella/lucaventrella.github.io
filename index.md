@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Falegnameria Luca Ventralla
+published: true
 ---
 
 ## Chi sono
 
 Mi chiamo **Luca Ventrella**.
 
-Sono un artigiano di Torino con la passione del legno. Qui puo' trovare i miei lavori e richiedere informazioni.
+Sono un artigiano di Torino con la passione del legno. Qui puoi trovare i miei lavori e richiedere informazioni.
 
 ## Lavori
 
