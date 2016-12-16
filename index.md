@@ -27,13 +27,13 @@ Eseguo lavori di restauro, traforo, tornitura, verniciatura e laccatura,lavori i
 
 
 
-## restauro
+## Restauro
 
 ![macchina da cucire](/images/1387655334708.jpg)
 ![culla](/images/IMG_20140507_183226865.jpg)
 
 
-
+## Lavori vari
 
 ![scudo](/images/IMG-20160311-WA0007.jpg)
 ![panca](/images/30-01-09_1159.jpg)
