@@ -8,11 +8,16 @@ published: true
 
 Mi chiamo **Luca Ventrella**.
 
-Sono un artigiano di Torino con la passione del legno. Qui puoi trovare i miei lavori e richiedere informazioni.
+Sono un artigiano di Torino con la passione del legno.
+Qui puoi trovare i miei lavori e richiedere informazioni.
+Eseguo lavori di restauro, traforo, tornitura, verniciatura e laccatura,lavori in legno su misura  e creazioni varie.
+
+
+
 
 ## Lavori
 
-## tornitura
+## Tornitura
 
 ![tornitura](/images/1387655340353.jpg)
 
@@ -28,10 +33,6 @@ Sono un artigiano di Torino con la passione del legno. Qui puoi trovare i miei l
 ![culla](/images/IMG_20140507_183226865.jpg)
 
 
-
-
-
-Eseguo lavori di restauro, traforo, tornitura, verniciatura e creazioni in legno personalizzate.
 
 
 ![scudo](/images/IMG-20160311-WA0007.jpg)
