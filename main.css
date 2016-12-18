@@ -1,4 +1,8 @@
 
+html body {
+  background-image: url("images/201292913254_olivo.jpg");
+}
+
 .content img {
   width: 250px;
   border: black 1px solid;
