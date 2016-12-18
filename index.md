@@ -37,6 +37,7 @@ Eseguo lavori di restauro, traforo, tornitura, verniciatura e laccatura,lavori i
 ![panca](/images/30-01-09_1159.jpg)
 ![gamba di un tavolo](/05-11-09_1453.jpg)
 
+![sgabello medioevale](1338556474385.jpg)
 
 
 ## Contattami
