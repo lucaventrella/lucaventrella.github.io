@@ -19,7 +19,7 @@ Eseguo lavori di restauro, traforo, tornitura, verniciatura e laccatura,lavori i
 
 ## Tornitura
 
-![tornitura](/images/tornitura.jpg)
+![tornitura](/images/tornitura_esercizio.jpg)
 
 ## traforo
 
