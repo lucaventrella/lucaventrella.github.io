@@ -1,6 +1,12 @@
 
 html body {
   background-image: url("images/201292913254_olivo.jpg");
+  background-size: 100%;
+}
+
+#main-title {
+  color: black;
+  font-weight: bold;
 }
 
 .content {
