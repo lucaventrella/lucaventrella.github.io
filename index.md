@@ -15,7 +15,7 @@ Eseguo lavori di restauro, traforo, tornitura, verniciatura e laccatura,lavori i
 
 
 
-## Lavori
+## i miei Lavori
 
 ## Tornitura
 
@@ -37,7 +37,7 @@ Eseguo lavori di restauro, traforo, tornitura, verniciatura e laccatura,lavori i
 
 ![scudo](/images/IMG-20160311-WA0007.jpg)
 ![panca](/images/30-01-09_1159.jpg)
-![prova](/05-11-09_1453.jpg)
+![gamba di un tavolo](/05-11-09_1453.jpg)
 
 ## Contattami
 
