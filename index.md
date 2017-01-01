@@ -28,15 +28,6 @@ In questa bottega non troverai solo i lavori di falegnameria ma anche di riparar
 
 
 
-
-
-
-
-
-
-
-
-
 ## traforo
 
 ![rondine](/images/IMG_20150212_132314783.jpg)
