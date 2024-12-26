@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Falegnameria Luca Ventralla
+title: Luca Ventralla
 published: true
 ---
 
